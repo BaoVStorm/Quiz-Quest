@@ -43,6 +43,8 @@ Tựa game này là nơi đấu trí với những câu hỏi về nhiều lĩnh
 
 - Kỹ năng debug và khả năng tư suy sâu
 
+- Kỹ thiết kế vẽ giao diện cho dự án
+
 <br>
 
 # 🕹️ Giao diện & GamePlay
